@@ -1,7 +1,7 @@
 # Digital-Clock-Js
 
 A simple and responsive Digital Clock built using HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds, AM/PM updating every second in real-time.
-
+Live Preview: https://abdulhanan-123.github.io/Digital-Clock-Js/
 🚀 Features
 Live time updates every second
 
